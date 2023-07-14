@@ -15,7 +15,7 @@ for target is also included run Pwned_driod.py to use me and see what I can do!
 ## bomb_droid.py
 
 ---
-Do you want to  read blog post related to Cyber Security [Click Here](https://shell-thon.github.io/cybershell.github.io)
+Do you want to  read blog post related to Cyber Security [Click Here](https://shell-thon.me)
 
 ## Author
 
